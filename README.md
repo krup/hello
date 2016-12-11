@@ -1,3 +1,4 @@
-# hello
-loquesemecante
-este repositorio es lo que la libreta celeste en mi mochila
+# libreta celeste
+un git hub de ideas monetizadas
+rastreador satelital de perros
+pb
